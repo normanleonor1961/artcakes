@@ -1,12 +1,15 @@
 import React from 'react'
+import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { LinkContainer } from 'react-router-bootstrap'
 import { Navbar, Nav, Container } from 'react-bootstrap'
+import { Link } from "react-router-dom";
 
 const Header = () => {
   return (
     <header>
         <Navbar bg="dark" variant='dark' expand="lg" collapseOnSelect>
         <Container>
-            <Navbar.Brand href="/">Art Cakes</Navbar.Brand>
+            <Navbar.Brand href='/'>Art Cakes</Navbar.Brand>
             <Navbar.Toggle aria-controls="basic-navbar-nav" />
             <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="ml-auto">
