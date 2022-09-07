@@ -1,6 +1,6 @@
 const products = [
   {
-    _id: 1,
+    _id: '1',
     name: 'Chocolate Drip Var01',
     image: '/images/choco1.png',
     description:'Chocolate Drip Cakes',
@@ -12,7 +12,7 @@ const products = [
     reviewscounter: 12,
   },
   {
-    _id: 2,
+    _id: '2',
     name: 'Chocolate Drip Var02',
     image: '/images/choco2.png',
     description:'Chocomoist Themed Cakes',
@@ -24,7 +24,7 @@ const products = [
     reviewscounter: 8,
   },
   {
-    _id: 3,
+    _id: '3',
     name: 'Chocolate Drip Var03',
     image: '/images/choco3.png',
     description:'Cartoon/Character Cakes',
@@ -36,8 +36,8 @@ const products = [
     reviewscounter: 12,
   },
   {
-    _id: 4,
-    name: 'Chocolate Drip Var05',
+    _id: '4',
+    name: 'Chocolate Drip Var04',
     image: '/images/character1.png',
     description:'Cartoon/Character Cakes',
     brand: 'Local',
@@ -48,8 +48,8 @@ const products = [
     reviewscounter: 12,
   },
   {
-    _id: 5,
-    name: 'Chocolate Drip Var06',
+    _id: '5',
+    name: 'Chocolate Drip Var05',
     image: '/images/choco4.png',
     description:'Cartoon/Character Cakes',
     brand: 'Local',
@@ -60,8 +60,8 @@ const products = [
     reviewscounter: 10,
   },
   {
-    _id: 6,
-    name: 'Chocolate Drip Var07',
+    _id: '6',
+    name: 'Chocolate Drip Var06',
     image: '/images/choco5.png',
     description:'Number Cakes',
     brand: 'Local',
@@ -72,8 +72,8 @@ const products = [
     reviewscounter: 12,
   },
 {
-    _id: 7,
-    name: 'Chocolate Drip Var08',
+    _id: '7',
+    name: 'Chocolate Drip Var07',
     image: '/images/choco6.png',
     description:'Chocolate Drip Cakes',
     brand: 'Local',
@@ -84,7 +84,7 @@ const products = [
     reviewscounter: 12,
   },
 {
-    _id: 8,
+    _id: '8',
     name: 'Chocolate Drip Var08',
     image: '/images/choco7.png',
     description:'Chocomoist Themed Cakes',
@@ -96,8 +96,8 @@ const products = [
     reviewscounter: 12,
   },
   {
-    _id: 9,
-    name: 'Chocolate Drip Var01',
+    _id: '9',
+    name: 'Chocolate Drip Var09',
     image: '/images/choco11.png',
     description:'Chocolate Drip Cakes',
     brand: 'Local',
@@ -108,8 +108,8 @@ const products = [
     reviewscounter: 12,
   },
   {
-    _id: 10,
-    name: 'Chocolate Drip Var02',
+    _id: '10',
+    name: 'Chocolate Drip Var10',
     image: '/images/choco12.png',
     description:'Chocomoist Themed Cakes',
     brand: 'Local',
@@ -120,8 +120,8 @@ const products = [
     reviewscounter: 8,
   },
   {
-    _id: 11,
-    name: 'Chocolate Drip Var03',
+    _id: '11',
+    name: 'Chocolate Drip Var11',
     image: '/images/choco3.png',
     description:'Cartoon/Character Cakes',
     brand: 'Local',
@@ -132,8 +132,8 @@ const products = [
     reviewscounter: 12,
   },
   {
-    _id: 12,
-    name: 'Chocolate Drip Var05',
+    _id: '12',
+    name: 'Chocolate Drip Var12',
     image: '/images/choco4.png',
     description:'Cartoon/Character Cakes',
     brand: 'Local',
@@ -144,8 +144,8 @@ const products = [
     reviewscounter: 12,
   },
   {
-    _id: 13,
-    name: 'Chocolate Drip Var06',
+    _id: '13',
+    name: 'Chocolate Drip Var13',
     image: '/images/choco4.png',
     description:'Cartoon/Character Cakes',
     brand: 'Local',
@@ -156,8 +156,8 @@ const products = [
     reviewscounter: 10,
   },
   {
-    _id: 14,
-    name: 'Chocolate Drip Var07',
+    _id: '14',
+    name: 'Chocolate Drip Var14',
     image: '/images/choco5.png',
     description:'Number Cakes',
     brand: 'Local',
@@ -168,8 +168,8 @@ const products = [
     reviewscounter: 12,
   },
 {
-    _id: 15,
-    name: 'Chocolate Drip Var08',
+    _id: '15',
+    name: 'Chocolate Drip Var15',
     image: '/images/character1.png',
     description:'Chocolate Drip Cakes',
     brand: 'Local',
@@ -180,8 +180,8 @@ const products = [
     reviewscounter: 12,
   },
 {
-    _id:16,
-    name: 'Chocolate Drip Var08',
+    _id:'16',
+    name: 'Chocolate Drip Var16',
     image: '/images/choco6.png',
     description:'Chocomoist Themed Cakes',
     brand: 'Local',
